@@ -1,4 +1,4 @@
-package tutorial.redistools;
+package Bean;
 
 import java.util.Map;
 

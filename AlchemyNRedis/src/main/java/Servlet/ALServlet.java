@@ -44,8 +44,8 @@ public class ALServlet extends HttpServlet {
 		
 		//parse
 		String result = sb.toString();
-		String agerange;
-		String gender;
+		String agerange = "";
+		String gender = "";
 		
 		final JSONObject obj = new JSONObject("result"); 
 		final JSONArray arr = obj.getJSONArray("imageFaces");

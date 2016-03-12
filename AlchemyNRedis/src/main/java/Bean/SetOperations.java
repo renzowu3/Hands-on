@@ -1,7 +1,7 @@
-package tutorial.redistools;
+package Bean;
 
 import java.util.Set;
-
+import Bean.RedisConnector;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
 
